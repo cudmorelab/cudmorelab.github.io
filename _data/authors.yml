@@ -1,0 +1,21 @@
+# This cudmore block was in original _config.yml
+# causing homepage to show cudmore as an author
+
+#author:
+cudmore:
+  name   : "cudmore"
+  bio    : "Writing too much code."
+  avatar : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://robertcudmore.org"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/cudmore_robert"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/cudmore"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/cudmore.robert"
