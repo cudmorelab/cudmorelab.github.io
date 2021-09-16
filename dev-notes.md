@@ -26,6 +26,7 @@ gem install --user-install bundler minimal-mistakes-jekyll
 Add to GemFile. The Gemfile is not used by github pages so it is fine to add to it in version control.
 
 ```
+# Add this to GemFile
 gem "minimal-mistakes-jekyll"
 ```
 

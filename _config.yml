@@ -57,7 +57,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-logo: "/assets/images/sanpy_transparent.png"
+logo: "/assets/images/sanpy-logo-invert.png"
+
+atom_feed:
+    hide: true
 
 footer:
   links:
