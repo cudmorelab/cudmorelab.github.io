@@ -1,3 +1,9 @@
+## push as cudmorelab
+
+```
+git push https://cudmorelab:<token>@github.com/cudmorelab/cudmorelab.github.io.git --all
+```
+
 ## Using two _config.yml
 
 Building locally is really slow with remote_theme. Solution is to use two config files. The two cconfig files are a comma seperated list without space, e.g. `--config _config.yml,_config_local.yml`.
