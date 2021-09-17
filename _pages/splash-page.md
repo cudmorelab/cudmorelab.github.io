@@ -47,10 +47,15 @@ feature_row4:
 ---
 
 <style>
-	.my-float-none {
-		float: none;
-    }
 	.my-table {
+		display: table;
+		margin-top: = 0em;
+		width: 80%;
+	}
+	.my-table td {
+	  text-align: center;
+	  border-bottom: none;
+	  width: 200px;
 	}
 </style>
 
@@ -64,8 +69,7 @@ feature_row4:
 
 <!-- {% include feature_row id="feature_row4" type="center" %} -->
 
-<div class="my-float-none">
-<table>
+<table class="my-table">
 <tr>
 
 <td>
@@ -82,4 +86,3 @@ feature_row4:
 
 </tr>
 </table>
-</div>

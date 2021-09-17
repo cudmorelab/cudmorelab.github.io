@@ -1,34 +1,67 @@
 <style>
+
 	.my-footer {
+		float: none;
+		margin-top: 0em;
+		text-align: center;
     }
 	.my-table {
+		display: table;
+		margin-top: 0em;
+		width: 100%;
 	}
+	.my-table td {
+	  border-bottom: none;
+	}
+
+	.my-all-caps {
+		font-variant-caps: all-small-caps;
+		font-size: 1.2em;
+	}
+
+	.my-gray-text {
+		color: #999999;
+	}
+
+	.my-center {
+	  text-align: center;
+  	}
 </style>
 
-<div class="footer my-footer">
+<div class="page__footer my-footer">
 <table class="my-table">
 <tr>
 	<td>
 	<div align=center>
-		<IMG SRC="{{ site.url }}{{ site.baseurl }}/assets/images/logos/ucdavis-health-transparent.png" width=200>
+		<IMG SRC="{{ site.url }}{{ site.baseurl }}/assets/images/logos/ucdavis-health-transparent.png" width=250>
 	</div>
 	</td>
 	<td>
-		<div align=center>DEPARTMENT AFFILIATION</DIV>
-		<div align=left><A HREF="https://health.ucdavis.edu/physiology/">Physiology and Membrane Biology</A></DIV>
+		<div class="my-all-caps" align=center>DEPARTMENT AFFILIATION</DIV>
+		<div class="my-gray-text" align=center>
+			<A HREF="https://health.ucdavis.edu/physiology/">Physiology and Membrane Biology</A>
+		</div>
 	</td>
 </tr>
 <tr>
 	<td>
-		<div align=center>One Shields Avenue, Tupper Hall</div>
-		<div align=center>Davis, CA, 95616</div>
+		<div class="my-gray-text" align=center>
+			One Shields Avenue, Tupper Hall
+		</div>
+		<div class="my-gray-text" align=center>
+			Davis, CA, 95616
+		</div>
 	</td>
 	<td>
-		<div align=center>GRADUATE GROUP AFFILIATION</DIV>
-		<div align=left><A HREF="https://grad.neuroscience.ucdavis.edu/">Neuroscience</A></DIV>
+		<div class="my-all-caps" align=center>GRADUATE GROUP AFFILIATION</DIV>
+		<div class="my-gray-text" align=center>
+			<A HREF="https://grad.neuroscience.ucdavis.edu/">Neuroscience</A>
+		</div>
 	</td>
 </tr>
 </table>
 </div>
 
-<div class="page__footer-copyright my-footer">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by " }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>, designed by <A HREF="https://robertcudmore.org">cudmore</A>.</div>
+<div class="page__footer-copyright my-footer my-gray-text">
+	&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} | {{ site.data.ui-text[site.locale].powered_by | default: "Powered by " }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> | Designed by <A HREF="https://robertcudmore.org">cudmore</A>
+</div>
