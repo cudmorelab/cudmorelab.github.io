@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/thy1-gfp.jpg
   actions:
     - label: "We Are Hiring !"
-      url: "/lab%20blog/hiring"
+      url: "/jobs/"
 excerpt: 'Building the next generation data analysis pipelines to understand neuronal, cardiac, and vascular function.'
 feature_row:
   - title: "Hiring: Graduate Students"
