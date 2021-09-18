@@ -6,11 +6,11 @@ tags:
   - cudmorelab
 ---
 
-[Link](https://pubmed.ncbi.nlm.nih.gov/31901303/)
+We published a long awaited manuscript in collaboration with the lab of [Rick Huganir](http://neuroscience.bs.jhmi.edu/huganir/) at Johns Hopkins. All authors contributed exceptional work, including the first author [Richard Roth](https://www.linkedin.com/in/richard-roth-744b588/).
 
-Cortical Synaptic AMPA Receptor Plasticity during Motor Learning
+Roth, R. H., Cudmore, R. H., Tan, H. L., Hong, I., Zhang, Y., and Huganir, R. L. (2020). Cortical Synaptic AMPA Receptor Plasticity during Motor Learning. Neuron 105, 895-908.e5. [doi:10.1016/j.neuron.2019.12.005](https://pubmed.ncbi.nlm.nih.gov/31901303/).
 
-<IMG SRC="{{ site.url }}{{ site.baseurl }}/assets/images/pub-images/roth-et-al-fig1.jpg" width=800>
+<IMG SRC="{{ site.url }}{{ site.baseurl }}/assets/images/pub-images/roth-et-al-fig1.jpg" width=600>
 
 Cortical Synaptic AMPA Receptor Plasticity during Motor Learning
 

@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/thy1-gfp.jpg
   actions:
     - label: "We Are Hiring !"
-      url: "/blog/hiring"
+      url: "/lab%20blog/hiring"
 excerpt: 'Building the next generation data analysis pipelines to understand neuronal, cardiac, and vascular function.'
 feature_row:
   - title: "Hiring: Graduate Students"
@@ -61,7 +61,7 @@ feature_row4:
 
 <!-- {% include feature_row id="intro" type="center" %} -->
 
-{% include feature_row %}
+<!-- {% include feature_row %} -->
 
 <!-- {% include feature_row id="feature_row2" type="left" %} -->
 

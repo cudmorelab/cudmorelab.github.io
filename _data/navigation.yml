@@ -1,4 +1,6 @@
 main:
+  - title: "We Are Hiring!"
+    url: /jobs/
   - title: "Research"
     url: /research/
   - title: "People"
@@ -7,6 +9,8 @@ main:
     url: /publications/
   - title: "Blog"
     url: /categories/#Lab%20Blog
+  - title: "Contact"
+    url: /contact/
 #  - title: "Categories"
 #    url: /categories/
 #  - title: "Tags"
