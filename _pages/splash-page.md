@@ -14,14 +14,14 @@ header:
 excerpt: 'Building the next generation data analysis pipelines to understand neuronal, cardiac, and vascular function.'
 feature_row:
   - title: "Hiring: Graduate Students"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    #excerpt: "This is some sample content that goes here with **Markdown** #formatting."
   - title: "Hiring: Junior Specialist"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    #excerpt: "This is some sample content that goes here with **Markdown** #formatting."
     #url: "#test-link"
     #btn_label: "Read More"
     #btn_class: "btn--primary"
-  - title: "Hiring: Undergraduates"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - title: "Looking For: Undergraduates"
+    #excerpt: "This is some sample content that goes here with **Markdown** #formatting."
 feature_row2:
   - image_path: /assets/images/grant-brain/fig2.png
     excerpt: 'We have received **NIH BRAIN** initiative funding to develop web-based analysis and visualization tools for in-vivo microscopy.'
