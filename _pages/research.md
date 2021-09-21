@@ -10,7 +10,7 @@ title: ""
 	}
 </style>
 
-### To understand neuronal and vascular function.
+## To understand neuronal and vascular function.
 
 Research in our lab is focused on understanding neuronal and vascular function. We are particularly interested in teasing apart how individual cells in these systems function and how they cooperate to orchestrate network level behavior. We approach this using a combination of techniques including mouse-genetics, behavior, electrophysiology, in-vivo two-photon imaging, and cutting-edge data analysis.
 

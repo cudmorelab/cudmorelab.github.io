@@ -11,7 +11,7 @@ header:
   actions:
     - label: "We Are Hiring !"
       url: "/jobs/"
-excerpt: 'Building the next generation data analysis pipelines to understand neuronal, cardiac, and vascular function.'
+excerpt: 'Building the next generation data analysis pipelines to understand neuronal and vascular function.'
 feature_row:
   - title: "Hiring: Graduate Students"
     #excerpt: "This is some sample content that goes here with **Markdown** #formatting."
