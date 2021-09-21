@@ -26,6 +26,11 @@
 	.my-center {
 	  text-align: center;
   	}
+
+	.my-cudmore-lab {
+		font-variant-caps: small-caps;
+		font-size: 2em;
+	}
 </style>
 
 <div class="page__footer my-footer">
@@ -33,7 +38,31 @@
 <tr>
 	<td>
 	<div align=center>
-		<IMG SRC="{{ site.url }}{{ site.baseurl }}/assets/images/logos/ucdavis-health-transparent.png" width=250>
+		<div class="my-cudmore-lab">
+		<b>Cudmore Lab</b><BR>
+		</div>
+		<!-- contact: rhcudmore@ucdavis.edu<BR> -->
+		<!-- twitter | github<BR> -->
+		<div class="page__footer-follow">
+		  <ul class="social-icons">
+		    {% if site.data.ui-text[site.locale].follow_label %}
+		      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+		    {% endif %}
+
+		    {% if site.footer.links %}
+		      {% for link in site.footer.links %}
+		        {% if link.label and link.url %}
+		          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+		        {% endif %}
+		      {% endfor %}
+		    {% endif %}
+
+		    {% unless site.atom_feed.hide %}
+		      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+		    {% endunless %}
+		  </ul>
+		</div>
+		<!-- -->
 	</div>
 	</td>
 	<td>
@@ -45,12 +74,9 @@
 </tr>
 <tr>
 	<td>
-		<div class="my-gray-text" align=center>
-			One Shields Avenue, Tupper Hall
-		</div>
-		<div class="my-gray-text" align=center>
-			Davis, CA, 95616
-		</div>
+	<div align=center>
+		<IMG SRC="{{ site.url }}{{ site.baseurl }}/assets/images/logos/ucdavis-health-transparent.png" width=250>
+	</div>
 	</td>
 	<td>
 		<div class="my-all-caps" align=center>GRADUATE GROUP AFFILIATION</DIV>
@@ -58,6 +84,18 @@
 			<A HREF="https://grad.neuroscience.ucdavis.edu/">Neuroscience</A>
 		</div>
 	</td>
+</tr>
+<tr>
+	<!--
+	<td>
+		<div class="my-gray-text" align=center>
+			One Shields Avenue, Tupper Hall
+		</div>
+		<div class="my-gray-text" align=center>
+			Davis, CA, 95616
+		</div>
+	</td>
+	-->
 </tr>
 </table>
 </div>

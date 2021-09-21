@@ -1,8 +1,37 @@
 ---
 permalink: /contact/
-title: "Contact"
+title: ""
 ---
 
+### Email
+
+<dd>
 Please contact Robert Cudmore with any questions or ideas...
 
 rhcudmore@ucdavis.edu
+</dd>
+
+### Social Media
+
+<ul class="social-icons">
+  {% if site.data.ui-text[site.locale].follow_label %}
+	<li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+  {% endif %}
+
+  {% if site.footer.links %}
+	{% for link in site.footer.links %}
+	  {% if link.label and link.url %}
+		<li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+	  {% endif %}
+	{% endfor %}
+  {% endif %}
+
+  {% unless site.atom_feed.hide %}
+	<li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+  {% endunless %}
+</ul>
+
+### Address
+
+<dd>One Shields Avenue, Tupper Hall<BR>
+<dd>Davis, CA, 95616

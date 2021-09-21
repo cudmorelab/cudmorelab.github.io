@@ -10,9 +10,9 @@ title: ""
 	}
 </style>
 
-### To understand neuronal, cardiac, and vascular function.
+### To understand neuronal and vascular function.
 
-Research in our lab is focused on understanding neuronal, cardiac, and vascular function. We are particularly interested in teasing apart how individual cells in these systems function and how they cooperate to orchestrate network level behavior. We approach this using a combination of techniques including mouse-genetics, behavior, electrophysiology, in-vivo two-photon imaging, and cutting-edge data analysis.
+Research in our lab is focused on understanding neuronal and vascular function. We are particularly interested in teasing apart how individual cells in these systems function and how they cooperate to orchestrate network level behavior. We approach this using a combination of techniques including mouse-genetics, behavior, electrophysiology, in-vivo two-photon imaging, and cutting-edge data analysis.
 
 <div class="my-float-right">
 <IMG width=375 src="{{ site.url }}{{ site.baseurl }}/assets/images/research/dendrite-1.png">
@@ -26,4 +26,4 @@ There are two main branches of research in the lab. One branch is focused on dev
 </video>
 </div>
 
-The second branch of our work is focused on understanding the structure and function of **cerebral and cardiac vasculature**. Comprised of an ecosystem of cell types including endothelial cells, pericytes, and smooth muscle cells, the vasculature is the 'life-blood'. When any vascular system goes awry, blood supply and nutrients are mismatched to metabolic demands and cells begin to fail. This occurs in diseases such as stroke, hypertension, and diabetes but also in more cognitive diseases such as Alzheimer's and Parkinson's and even aging. We are approaching this by examining the function and disfunction of key cellular players involved in these disease pathologies.
+The second branch of our work is focused on understanding the structure and function of **cerebral vasculature**. Comprised of an ecosystem of cell types including endothelial cells, pericytes, and smooth muscle cells, the vasculature is the 'life-blood'. When any vascular system goes awry, blood supply and nutrients are mismatched to metabolic demands and cells begin to fail. This occurs in diseases such as stroke, hypertension, and diabetes but also in more cognitive diseases such as Alzheimer's and Parkinson's and even aging. We are approaching this by examining the function and disfunction of key cellular players involved in these disease pathologies.

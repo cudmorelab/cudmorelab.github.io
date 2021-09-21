@@ -14,7 +14,7 @@ title: ""
 }
 
 .my-image {
-	width: 200px;
+	width: 175px;
  	<!-- border: 8px solid #000; -->
 }
 
