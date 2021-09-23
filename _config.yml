@@ -69,7 +69,7 @@ footer:
       url: "https://twitter.com/cudmorelab"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/cudmorelab"
+      url: "https://github.com/cudmore"
     - label: "Contact"
       icon: "fas fa-id-card"
       url: "/contact/"
