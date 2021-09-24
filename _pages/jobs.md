@@ -7,9 +7,9 @@ title: ""
 
 We are recruiting undergraduates to join our team. We have a number of exciting projects which give an opportunity for learning, training, and independent research. We are interested and welcome students from a range of majors including biology, engineering, computer science, and statistics.
 
-## Searching for 2 Graduate Students and a  Junior Specialist to join our team.
+## Searching for 2 Graduate Students to join our team.
 
-We are currently recruiting two Graduate Students and a Junior Specialist. All positions are funded by the [NIH BRAIN initiative](https://braininitiative.nih.gov/).
+We are currently recruiting two Graduate Students. All positions are funded by the [NIH BRAIN initiative](https://braininitiative.nih.gov/).
 
 Successful candidates will join a growing team to develop image analysis algorithms and visualization software to provide critically needed tools for the greater neuroscience community. The data we are working with comes from a number of collaborators labs and includes large-scale <I>in vivo</I> 3D imaging with two-photon microscopy and 'wearable' mini-scopes. We are examining a range of datasets from neuronal spine and axon dynamics to Ca<sup>++</sup> signaling with GCaMP.
 
