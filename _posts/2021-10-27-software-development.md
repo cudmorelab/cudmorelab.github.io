@@ -1,5 +1,5 @@
 ---
-title: "Software Development In tThe Lab"
+title: "Software Development In The Lab"
 categories:
   - Lab Blog
 tags:
