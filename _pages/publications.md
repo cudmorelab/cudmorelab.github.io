@@ -43,9 +43,10 @@ Grainger N, Guarina L, Cudmore RH<sup>*</sup>, Santana LF<sup>*</sup> (2021). Th
 <p class="my-hanging-perspective">
 <I><B>Perspective:</B> Earley, S, and Lederer, WJ (2021). Metabolic Control of Cardiac Pacemaking. <B>Function</B> 2.</I>
 <BR>
-<A class="my-doi" HREF="https://10.1093/function/zqab043">[doi]</A>
+<A class="my-doi" HREF="https://doi.org/10.1093/function/zqab043">[doi]</A>
 <!-- <A HREF="http://www.ncbi.nlm.nih.gov/pubmed/34250490">[pubmed]</A> -->
 </p>
+
 
 <p class="my-hanging">
 Li Y, Ding R, Wang F, et al (2020). Transient ischemia-reperfusion induces cortical hyperactivity and AMPAR trafficking in the somatosensory cortex. <b><i>Aging</i></b>. 12(5):4299-4321.

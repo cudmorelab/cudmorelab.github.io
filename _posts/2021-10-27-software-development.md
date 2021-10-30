@@ -74,7 +74,7 @@ This is the tricky part. For some reason, traditional Computer Science (C, C++, 
 
 - [Vue][vue]. This is designed by a former Google developer and is gaining lots of trackshion, has a good user-base, and should be the most straight-forward to implement
 
-- I have some code written in [Plotly Dash][dash]. This simplifies things as most code is written in Python rather than Javascript. See [SanPy repository](https://cudmore.github.io/SanPy/web-application/)
+- We have have some code written in [Plotly Dash][dash]. This simplifies things as most code is written in Python rather than Javascript. See [SanPy repository](https://cudmore.github.io/SanPy/web-application/)
 
  - We could also use [Angular][angular] from Google or [React][react] from FaceBook.
 
@@ -99,9 +99,9 @@ Commenting code is no longer free form, you should follow some standards that ar
 
 I generally use the [Google DocString](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html) format.
 
-Once you have some working code, you then want to write more narrative descriptions of how to use it, describe the GUI, give your methods, and expose your pitfalls. In general, I use [MkDocs] and when feeling fancy, I use [Spinx][sphinx].
+Once you have some working code, you then want to write more narrative descriptions of how to use it, describe the GUI, give your methods, and expose your pitfalls. In general, we use [MkDocs] and when feeling fancy use [Spinx][sphinx].
 
-MkDocs is driven by text files written in the [markdown](https://daringfireball.net/projects/markdown/) format. I find this awesome, easy, and everything is just text. For example, this document you are reading is written in Markdown!
+MkDocs is driven by text files written in the [markdown](https://daringfireball.net/projects/markdown/) format. We find this awesome, easy, and everything is just text. For example, this document you are reading is written in Markdown!
 
 # Jupyter notebooks
 
@@ -111,7 +111,7 @@ To do this, we use [Jupyter Notebooks][jupyter].
 
 # Unit testing
 
-This is an area I am learning. The idea is you need to write code that tests that your main code returns expected results (kind of circular). This is useful when a code base gets large, like 10,000 or 100,000 lines of code.
+This is an area we (e.g. I) am learning. The idea is you need to write code that tests that your main code returns expected results (kind of circular). This is useful when a code base gets large, like 10,000 or 100,000 lines of code.
 
 For this we are starting to use [PyTest] and [Tox].
 
