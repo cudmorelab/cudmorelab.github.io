@@ -7,6 +7,8 @@ main:
     url: /people/
   - title: "Publications"
     url: /publications/
+  - title: "Software"
+    url: /Software/
   - title: "News"
     url: /categories/#Lab%20Blog
   #- title: "Contact"
