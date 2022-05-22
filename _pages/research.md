@@ -18,7 +18,7 @@ Research in our lab is focused on understanding neuronal and vascular function. 
 <IMG width=375 src="{{ site.url }}{{ site.baseurl }}/assets/images/research/dendrite-1.png">
 </div>
 
-There are two main branches of research in the lab. One branch is focused on developing **data analysis pipelines**. As our ability to collect more detailed and increasingly larger datasets becomes commonplace, a major bottleneck is the analysis of this data. We are building the next generation pipelines to fill this gap and manage this data analysis across a range of data types including: neuronal structure, Ca<sup>++</sup> signaling, and vascular plasticity.
+There are two main branches of research in the lab. One branch is focused on developing **data analysis pipelines**. As our ability to collect more detailed and increasingly larger datasets becomes commonplace, a major bottleneck is the analysis of this data. We are building the next generation pipelines to fill this gap and manage this data analysis across a range of data types including: neuronal structure, Ca<sup>++</sup> signaling, and vascular plasticity. Please see our [Software](/software) page for more info.
 
 <div class="my-float-right">
 <video muted controls width="375">
