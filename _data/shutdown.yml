@@ -1,0 +1,11 @@
+# Edit this file to change the shutdown banner text/link on all listed pages.
+message: >-
+  Sorry. The Cudmore Lab has shut down due to lack of funding. Robert is out of work and back in Baltimore. Follow his open-source projects at
+link_url: https://mapmanager.net/
+link_text: mapmanager.net
+show_on:
+  - /
+  - /research/
+  - /people/
+  - /publications/
+  - /software/

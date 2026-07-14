@@ -31,12 +31,12 @@ I've been at UC Davis as an Assistant Professor since 2019. My initial training 
 
 ### Graduate Students.
 
-We are recruiting two graduate students to join our growing team. We are looking for students who want to develop image analysis algorithms and visualization tools. Please see our [jobs page](/jobs/) for more information.
+<s>We are recruiting two graduate students to join our growing team. We are looking for students who want to develop image analysis algorithms and visualization tools. Please see our [jobs page](/jobs/) for more information.</s>
 
 ### Junior Specialists.
 
-We are actively recruiting a junior specialist. Please see our [jobs page](/jobs/) for more information.
+<s>We are actively recruiting a junior specialist. Please see our [jobs page](/jobs/) for more information.</s>
 
 ### Undergraduates.
 
-We are actively recruiting undergraduate students. Please see our [jobs page](/jobs/) for more information.
+<s>We are actively recruiting undergraduate students. Please see our [jobs page](/jobs/) for more information.</s>

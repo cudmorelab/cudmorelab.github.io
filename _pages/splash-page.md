@@ -8,9 +8,9 @@ header:
   #overlay_color: "#aaa"
   #overlay_filter: "0.5"
   overlay_image: /assets/images/thy1-gfp.jpg
-  actions:
-    - label: "We Are Hiring !"
-      url: "/jobs/"
+#   actions:
+#     - label: "We Are Hiring !"
+#       url: "/jobs/"
 excerpt: 'Building the next generation data analysis pipelines to understand neuronal and vascular function.'
 feature_row:
   - title: "Hiring: Graduate Students"

@@ -1,0 +1,19 @@
+<style>
+  .shutdown-banner {
+    background: #b00020;
+    color: #fff;
+    padding: 1em 1.5em;
+    margin: 0;
+    text-align: center;
+    font-size: 1.05em;
+    line-height: 1.45;
+  }
+  .shutdown-banner a {
+    color: #fff;
+    text-decoration: underline;
+    font-weight: 600;
+  }
+</style>
+<div class="shutdown-banner" role="status">
+  {{ site.data.shutdown.message }} <a href="{{ site.data.shutdown.link_url }}">{{ site.data.shutdown.link_text }}</a>.
+</div>
